@@ -1,4 +1,13 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="$Y.0B`d-0FH4xz^DfDi," x="0" y="0"/><block type="device_forever" id="kfJ}16l#k8j(UzM:rsQb" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="2$Q[/7g|[,g]:A9wr{UU"><field name="LEDS">`
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_pause" id="Q{^[uvtm[Ewr2B5~-PT4"><value name="pause"><shadow type="timePicker" id="]mjp*ei%EH*GFIovs+,B"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="1Vw+vom]`B598(2q^FpB"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_pause" id="x%~QM]I..MOg[,p5?-!d"><value name="pause"><shadow type="timePicker" id="9ULY4{A0;Q!Y%}0~lymN"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
